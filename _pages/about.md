@@ -19,9 +19,11 @@ Publications
 ======
 
 _Preprints_
+
 insert here
 
 _Peer-reviewed_
+
 **Shahmohamadloo, R.S.**, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. _Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)_. CABI, Oxfordshire, UK. [doi: 10.1079/9781800621640.0010](http://www.doi.org/10.1079/9781800621640.0010) [(PDF)](/files/2023_CABI_CCDDFCC_Shahmohamadloo et al.pdf)
 
 
