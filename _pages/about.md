@@ -43,3 +43,9 @@ Hataley, E.K.†, **Shahmohamadloo, R.S.**, Ortiz Almirall, X., Harrison, A.L., 
 <br>**Media coverage:** [The Rockefeller Foundation](https://www.rockefellerfoundation.org/initiative/food-system-vision-prize/), [Farmtario](https://farmtario.com/news/university-proposal-among-food-system-prize-semifinalists/), [U of G News]([https://farmtario.com/news/university-proposal-among-food-system-prize-semifinalists/](https://news.uoguelph.ca/2020/06/u-of-g-future-food-vision-a-semi-finalist-for-international-prize/)
 <br>**Semi-finalist video:** [Video file](https://vimeo.com/423867212)
 
+**Shahmohamadloo, R.S.**, Ortiz Almirall, X., Simmons, D.B.D., Bhavsar, S.P., Poirier, D.G., Sibley, P.K. (2022). Fish tissue accumulation and proteomic response to microcystins is species-dependent. _Chemosphere_, 287, 132028. [doi: 10.1016/j.chemosphere.2021.132028](https://doi.org/10.1016/j.chemosphere.2021.132028) [(PDF)](/files/2022_CHEMOSPHERE_Shahmohamadloo et al.pdf)
+
+**Shahmohamadloo, R.S.**, Ortiz Almirall, X., Simmons, D.B.D., Lumsden, J.S., Bhavsar, S.P., Watson-Leung, T., Vander Eyken, A.†, Hankins, G.†, Hubbs, K.†, Konopelko, P.†, Sanarcki, M.†, Strong, D.†, Sibley, P.K. (2021). Cyanotoxins within and outside of Microcystis aeruginosa cause adverse effects in Rainbow Trout (Oncorhynchus mykiss). _Environ. Sci. Technol._, 55(15), 10422-10431. [doi: 10.1021/acs.est.1c01501](https://doi.org/10.1021/acs.est.1c01501) [(PDF)](/files/2021_ENVIRONSCITECHNOL_Shahmohamadloo et al.pdf)
+
+Guo, Y., O’Brien, A.M., Lins, T.F., **Shahmohamadloo, R.S.**, Ortiz Almirall, X., Rochman, C.M., Sinton, D. (2021). The Effects of Hydrogen Peroxide on Cyanobacterium Microcystis aeruginosa in the Presence of Nanoplastics. _ACS ES&T Water_, 1(7), 1596-1607. [doi: 10.1021/acsestwater.1c00090](https://doi.org/10.1021/acsestwater.1c00090) [(PDF)](/files/2021_ACSESTWATER_Guo et al.pdf)
+
