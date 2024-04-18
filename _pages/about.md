@@ -24,7 +24,7 @@ _Preprints_
 18. **Shahmohamadloo, R.S.**‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific genetic variation is critical to toxicological responses and environmental risk assessments. [doi: 10.1101/2023.06.06.543817](https://doi.org/10.1101/2023.06.06.543817)
 
 _Peer-reviewed_
-17. **Shahmohamadloo, R.S.**, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. _Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)_. CABI, Oxfordshire, UK. [doi: 10.1079/9781800621640.0010](http://www.doi.org/10.1079/9781800621640.0010) [(PDF)](link_to_your_pdf_file)
+17. **Shahmohamadloo, R.S.**, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. _Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)_. CABI, Oxfordshire, UK. [doi: 10.1079/9781800621640.0010](http://www.doi.org/10.1079/9781800621640.0010) [(PDF)](files/2023_CABI_CCDDFCC_Shahmohamadloo et al.pdf)
 
 
 20. 
