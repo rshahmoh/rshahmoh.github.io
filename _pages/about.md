@@ -18,6 +18,18 @@ Let's work together to advance scientific understanding and address conservation
 Publications
 ======
 
+_Preprints_
+insert here
+_Peer-reviewed_
+**Shahmohamadloo, R.S.**, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. _Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)_. CABI, Oxfordshire, UK. [doi: 10.1079/9781800621640.0010](http://www.doi.org/10.1079/9781800621640.0010) [(PDF)](/files/2023_CABI_CCDDFCC_Shahmohamadloo et al.pdf)
+
+
+
+
+
+
+super old script
+
 <em>Preprints</em>
 <ol start="20">
 <li><strong>Shahmohamadloo, R.S.</strong>, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. [<em>doi: insert here</em>](https://github.com/academicpages/academicpages.github.io) [PDF](/files/your_pdf_file.pdf)</li>
@@ -26,8 +38,8 @@ Publications
 </ol>
 <em>Peer-reviewed</em>
 <ol start="17">
-<li><strong>Shahmohamadloo, R.S.</strong>, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. <em>Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)</em>. CABI, Oxfordshire, UK. [<em>doi: 10.1079/9781800621640.0010</em>](http://www.doi.org/10.1079/9781800621640.0010) [PDF](/files/2023_CABI_CCDDFCC_Shahmohamadloo_et_al.pdf)</li>
-<li><strong>Shahmohamadloo, R.S.</strong>, Bhavsar, S.P., Ortiz Almirall, X., Marklevitz, S.A.C., Rudman, S.M., Sibley, P.K. (2023). Cyanotoxins accumulate in Lake St. Clair fish yet their fillets are safe to eat. <em>Sci. Total. Environ.</em>, 874, 162381. [doi: 10.1016/j.scitotenv.2023.162381](https://doi.org/10.1016/j.scitotenv.2023.162381) [(PDF)](/files/2023_SCITOTALENVIRON_Shahmohamadloo et al2.pdf)
+<li><strong>Shahmohamadloo, R.S.</strong>, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. <em>Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)</em>. CABI, Oxfordshire, UK. [doi: 10.1079/9781800621640.0010](http://www.doi.org/10.1079/9781800621640.0010) [PDF](/files/2023_CABI_CCDDFCC_Shahmohamadloo_et_al.pdf)</li>
+<li><strong>Shahmohamadloo, R.S.</strong>, Bhavsar, S.P., Ortiz Almirall, X., Marklevitz, S.A.C., Rudman, S.M., Sibley, P.K. (2023). Cyanotoxins accumulate in Lake St. Clair fish yet their fillets are safe to eat. <em>Sci. Total. Environ., 874, 162381. [doi: 10.1016/j.scitotenv.2023.162381](https://doi.org/10.1016/j.scitotenv.2023.162381) [(PDF)](/files/2023_SCITOTALENVIRON_Shahmohamadloo et al2.pdf)
 
 
 
