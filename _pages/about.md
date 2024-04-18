@@ -27,8 +27,7 @@ Publications
 <em>Peer-reviewed</em>
 <ol start="17">
 <li><strong>Shahmohamadloo, R.S.</strong>, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. <em>Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)</em>. CABI, Oxfordshire, UK. [<em>doi: 10.1079/9781800621640.0010</em>](http://www.doi.org/10.1079/9781800621640.0010) [PDF](/files/2023_CABI_CCDDFCC_Shahmohamadloo_et_al.pdf)</li>
-<li><strong>Shahmohamadloo, R.S.</strong>, Bhavsar, S.P., Ortiz Almirall, X., Marklevitz, S.A.C., Rudman, S.M., Sibley, P.K. (2023). Cyanotoxins accumulate in Lake St. Clair fish yet their fillets are safe to eat. <em>Sci. Total. Environ.</em>, 874, 162381. [<em>doi: 10.1016/j.scitotenv.2023.162381</em>](https://doi.org/10.1016/j.scitotenv.2023.162381) [PDF](/files/2023_SCITOTALENVIRON_Shahmohamadloo_et_al2.pdf)</li>
-</ol>
+<li><strong>Shahmohamadloo, R.S.</strong>, Bhavsar, S.P., Ortiz Almirall, X., Marklevitz, S.A.C., Rudman, S.M., Sibley, P.K. (2023). Cyanotoxins accumulate in Lake St. Clair fish yet their fillets are safe to eat. <em>Sci. Total. Environ.</em>, 874, 162381. [doi: 10.1016/j.scitotenv.2023.162381](https://doi.org/10.1016/j.scitotenv.2023.162381) [(PDF)](/files/2023_SCITOTALENVIRON_Shahmohamadloo et al2.pdf)
 
 
 
