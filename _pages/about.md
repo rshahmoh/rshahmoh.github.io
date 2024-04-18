@@ -17,6 +17,7 @@ Let's work together to advance scientific understanding and address conservation
 
 Publications
 ======
+( ‡ co-first authors | † undergraduate or graduate mentee )
 
 _Preprints_
 
