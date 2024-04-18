@@ -49,3 +49,7 @@ Hataley, E.K.†, **Shahmohamadloo, R.S.**, Ortiz Almirall, X., Harrison, A.L., 
 
 Guo, Y., O’Brien, A.M., Lins, T.F., **Shahmohamadloo, R.S.**, Ortiz Almirall, X., Rochman, C.M., Sinton, D. (2021). The Effects of Hydrogen Peroxide on Cyanobacterium Microcystis aeruginosa in the Presence of Nanoplastics. _ACS ES&T Water_, 1(7), 1596-1607. [doi: 10.1021/acsestwater.1c00090](https://doi.org/10.1021/acsestwater.1c00090) [(PDF)](/files/2021_ACSESTWATER_Guo et al.pdf)
 
+**Shahmohamadloo, R.S.** (2020). Mentoring with trust. _Science_, 369(6508), 1270. [doi: 10.1126/science.369.6508.1270](http://doi.org/10.1126/science.369.6508.1270) [(PDF)](/files/2020_SCIENCE_Shahmohamadloo.pdf)
+
+Anaraki, M.T., **Shahmohamadloo, R.S.**, Sibley, P.K., MacPherson, K.A., Bhavsar, S.P., Simpson, A.J., Ortiz Almirall, X. (2020). Optimization of an MMPB Lemieux Oxidation method for the quantitative analysis of microcystins in fish tissue by LC-QTOF MS. _Sci. Total Environ._, 737, 140209. [doi: 10.1016/j.scitotenv.2020.140209](http://doi.org/10.1016/j.scitotenv.2020.140209) [(PDF)](/files/2020_SCITOTALENVIRON_Anaraki et al.pdf)
+
