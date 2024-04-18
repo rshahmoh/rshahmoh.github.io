@@ -20,6 +20,22 @@ Publications
 
 <em>Preprints</em>
 <ol start="20">
+<li><strong>Shahmohamadloo, R.S.</strong>, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. [<em>doi: insert here</em>](https://github.com/academicpages/academicpages.github.io) [PDF](/files/your_pdf_file.pdf)</li>
+<li><strong>Shahmohamadloo, R.S.</strong>‡, Tissier, M.L.‡, Guzman, L.M.‡ (2024). Risk assessments underestimate threat of pesticides to wild bees. [<em>doi: 10.1101/2023.09.15.557615</em>](https://doi.org/10.1101/2023.09.15.557615)</li>
+<li><strong>Shahmohamadloo, R.S.</strong>‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific genetic variation is critical to toxicological responses and environmental risk assessments. [<em>doi: 10.1101/2023.06.06.543817</em>](https://doi.org/10.1101/2023.06.06.543817)</li>
+</ol>
+<em>Peer-reviewed</em>
+<ol start="17">
+<li><strong>Shahmohamadloo, R.S.</strong>, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. <em>Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)</em>. CABI, Oxfordshire, UK. [<em>doi: 10.1079/9781800621640.0010</em>](http://www.doi.org/10.1079/9781800621640.0010) [PDF](/files/2023_CABI_CCDDFCC_Shahmohamadloo_et_al.pdf)</li>
+<li><strong>Shahmohamadloo, R.S.</strong>, Bhavsar, S.P., Ortiz Almirall, X., Marklevitz, S.A.C., Rudman, S.M., Sibley, P.K. (2023). Cyanotoxins accumulate in Lake St. Clair fish yet their fillets are safe to eat. <em>Sci. Total. Environ.</em>, 874, 162381. [<em>doi: 10.1016/j.scitotenv.2023.162381</em>](https://doi.org/10.1016/j.scitotenv.2023.162381) [PDF](/files/2023_SCITOTALENVIRON_Shahmohamadloo_et_al2.pdf)</li>
+</ol>
+
+
+
+
+
+<em>Preprints</em>
+<ol start="20">
 <li><strong>Shahmohamadloo, R.S.</strong>, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. [doi: insert here](https://github.com/academicpages/academicpages.github.io)</li>
 <li><strong>Shahmohamadloo, R.S.</strong>‡, Tissier, M.L.‡, Guzman, L.M.‡ (2024). Risk assessments underestimate threat of pesticides to wild bees. [doi: 10.1101/2023.09.15.557615](https://doi.org/10.1101/2023.09.15.557615)</li>
 <li><strong>Shahmohamadloo, R.S.</strong>‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific genetic variation is critical to toxicological responses and environmental risk assessments. [doi: 10.1101/2023.06.06.543817](https://doi.org/10.1101/2023.06.06.543817)</li>
