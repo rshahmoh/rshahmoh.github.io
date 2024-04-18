@@ -53,3 +53,16 @@ Guo, Y., O’Brien, A.M., Lins, T.F., **Shahmohamadloo, R.S.**, Ortiz Almirall, 
 
 Anaraki, M.T., **Shahmohamadloo, R.S.**, Sibley, P.K., MacPherson, K.A., Bhavsar, S.P., Simpson, A.J., Ortiz Almirall, X. (2020). Optimization of an MMPB Lemieux Oxidation method for the quantitative analysis of microcystins in fish tissue by LC-QTOF MS. _Sci. Total Environ._, 737, 140209. [doi: 10.1016/j.scitotenv.2020.140209](http://doi.org/10.1016/j.scitotenv.2020.140209) [(PDF)](/files/2020_SCITOTALENVIRON_Anaraki et al.pdf)
 
+**Shahmohamadloo, R.S.**, Simmons, D.B.D., Sibley, P.K. (2020). Shotgun proteomics analysis reveals sub-lethal effects in Daphnia magna exposed to cell-bound microcystins produced by Microcystis aeruginosa. _Comp. Biochem. Phys. D._, 33, 100656. [doi: 10.1016/j.cbd.2020.100656](http://doi.org/10.1016/j.cbd.2020.100656) [(PDF)](/files/2020_COMPBIOCHEMPHYSD_Shahmohamadloo et al.pdf)
+
+**Shahmohamadloo, R.S.**, Ortiz Almirall, X., Bhavsar, S.P., Poirier, D.G., Sibley, P.K. (2020). Assessing the toxicity of cell-bound microcystins on freshwater pelagic and benthic invertebrates. _Ecotox. Environ. Safe._, 188, 109945. [doi: 10.1016/j.ecoenv.2019.109945](http://doi.org/10.1016/j.ecoenv.2019.109945) [(PDF)](/files/2020_ECOTOXENVIRONSAFE_Shahmohamadloo et al.pdf)
+
+**Shahmohamadloo, R.S.**, Ortiz Almirall, X., Holeton, C., Bhavsar, S.P., Poirier, D.G., Sibley, P.K. (2019). Adopting a culture technique to produce and sustain high concentrations of microcystins by Microcystis aeruginosa in laboratory. _MethodsX_, 6, 2521-2535. [doi: 10.1016/j.mex.2019.10.024](https://doi.org/10.1016/j.mex.2019.10.024) [(PDF)](/files/2019_METHODSX_Shahmohamadloo et al.pdf)
+
+Gene, S.M.†, **Shahmohamadloo, R.S.**, Ortiz, X., Prosser, R.S. (2019). Effect of Microcystis aeruginosa-associated microcystin-LR on the survival of 2 life stages of freshwater mussel (Lampsilis siliquoidea). _Environ. Toxicol. Chem._, 38(10), 2137-2144. [doi: 10.1002/etc.4527](http://doi.org/10.1002/etc.4527) [(PDF)](/files/2019_ENVIRONTOXICOLCHEM_Gene et al.pdf)
+
+**Shahmohamadloo, R.S.**, Lissemore, L., Prosser, R.S., Sibley, P.K. (2017). Comparative evaluation of four biosolids formulations on the effects of triclosan on plant-arbuscular mycorrhizal fungal interactions in three crop species. _Sci. Total. Environ._, 583, 292-299. [doi: 10.1016/j.scitotenv.2017.01.067](http://doi.org/10.1016/j.scitotenv.2017.01.067) [(PDF)](/files/2017_SCITOTALENVIRON_Shahmohamadloo et al.pdf)
+
+**Shahmohamadloo, R.S.**, Lissemore, L., Prosser, R.S., Sibley, P.K. (2016). Evaluating the effects of triclosan on three field crops grown in four formulations of biosolids. _Environ. Toxicol. Chem._, 36(7), 1896-1908. [doi: 10.1002/etc.3712](http://doi.org/10.1002/etc.3712) [(PDF)](/files/2016_ENVIRONTOXICOLCHEM_Shahmohamadloo et al.pdf)
+
+Prosser, R.S., Lissemore, L., **Shahmohamadloo, R.S.**, Sibley, P.K. (2015). Effect of biosolids-derived triclosan and triclocarban on the colonization of plant roots by arbuscular mycorrhizal fungi. _Sci. Total. Environ._, 508, 427-434. [doi: 10.1016/j.scitotenv.2014.12.014](http://doi.org/10.1016/j.scitotenv.2014.12.014) [(PDF)](/files/2015_SCITOTALENVIRON_Prosser et al.pdf)
