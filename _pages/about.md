@@ -38,3 +38,8 @@ _Peer-reviewed_
 <br>**Media coverage:** [The Globe and Mail](https://www.theglobeandmail.com/canada/article-studies-probe-toxic-burden-on-fish-from-algal-blooms-in-lakes-erie-and/), [CBC News](https://www.cbc.ca/news/canada/windsor/lake-erie-anglers-consider-algae-helpful-1.6915783), [The Weather Network](https://www.theweathernetwork.com/en/news/nature/outdoors/some-lake-erie-anglers-consider-algae-blooms-helpful-but-what-are-the-health-effects)
 
 Hataley, E.K.†, **Shahmohamadloo, R.S.**, Ortiz Almirall, X., Harrison, A.L., Rochman, C.M., Zou, S., Orihel, D.M. (2022). Experimental evidence from the field that naturally weathered microplastics accumulate cyanobacterial toxins in eutrophic lakes. _Environ. Toxicol. Chem._, 41(12), 3017-3028. [doi: 10.1002/etc.5485](https://doi.org/10.1002/etc.5485) [(PDF)](/files/2022_ENVIRONTOXICOLCHEM_Hataley et al.pdf)
+
+**Shahmohamadloo, R.S.**, Febria, C.M., Fraser, E.D.G., Sibley, P.K. (2022). The Sustainable Agriculture Imperative: The need for an Agrosystem Approach to Meet the United Nations Sustainable Development Goals by 2030. _Integr. Environ. Assess. Manag._, 18(5), 1199-1205. [doi: 10.1002/ieam.4558](https://doi.org/10.1002/ieam.4558) [(PDF)](/files/2022_INTEGR ENVIRONASSES_Shahmohamadloo et al.pdf)
+<br>**Media coverage:** [The Rockefeller Foundation](https://www.rockefellerfoundation.org/initiative/food-system-vision-prize/), [Farmtario](https://farmtario.com/news/university-proposal-among-food-system-prize-semifinalists/), [U of G News]([https://farmtario.com/news/university-proposal-among-food-system-prize-semifinalists/](https://news.uoguelph.ca/2020/06/u-of-g-future-food-vision-a-semi-finalist-for-international-prize/))
+<br>**Semi-finalist video:** [Video file](https://vimeo.com/423867212)
+
