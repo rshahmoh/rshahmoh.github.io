@@ -27,7 +27,8 @@ _Preprints_
 _Peer-reviewed_
 
 17. **Shahmohamadloo, R.S.**, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. _Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)_. CABI, Oxfordshire, UK. [doi: 10.1079/9781800621640.0010](http://www.doi.org/10.1079/9781800621640.0010) [(PDF)](/files/2023_CABI_CCDDFCC_Shahmohamadloo et al.pdf)
-
+16. **Shahmohamadloo, R.S.**, Bhavsar, S.P., Ortiz Almirall, X., Marklevitz, S.A.C., Rudman, S.M., Sibley, P.K. (2023). Cyanotoxins accumulate in Lake St. Clair fish yet their fillets are safe to eat. _Sci. Total. Environ._, 874, 162381. [doi: 10.1016/j.scitotenv.2023.162381](https://doi.org/10.1016/j.scitotenv.2023.162381) [(PDF)](/files
+/2023_SCITOTALENVIRON_Shahmohamadloo et al1.pdf)
 
 20. 
 22. Register a GitHub account if you don't have one and confirm your e-mail (required!)
