@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is René Shahmohamadloo and I am a both a [Liber Ero Postdoctoral Fellow](https://liberero.ca) and [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at Washington State University.
+My name is René Shahmohamadloo and I am a both a [Liber Ero Postdoctoral Fellow](https://liberero.ca) and [NSERC Postdoctoral Fellow](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) at Washington State University. My mentorship team includes [Seth Rudman](https://scholar.google.ca/citations?user=tkLbIiAAAAAJ&hl=en) and [John Fryxell](https://scholar.google.ca/citations?user=mq20LGsAAAAJ&hl=en).
 
 My research focuses on understanding the adaptive responses of organisms to human-altered environments, integrating toxicological, population ecology, and evolutionary mechanisms to address pressing questions in organismal biology and conservation. Having received my PhD training in toxicology, I've found dedicating my postdoc to expanding my knowledge in evolutionary biology and genomics to be truly riveting.
 
