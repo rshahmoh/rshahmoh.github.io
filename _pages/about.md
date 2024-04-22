@@ -21,7 +21,7 @@ Publications
 
 _Preprints_
 
-**Shahmohamadloo, R.S.**, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. [doi: TBD](http://www.doi.org/10.1079/9781800621640.0010)
+**Shahmohamadloo, R.S.**, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. [doi: 10.1101/2024.04.15.589575](https://doi.org/10.1101/2024.04.15.589575)
 
 **Shahmohamadloo, R.S.**‡, Tissier, M.L.‡, Guzman, L.M.‡ (2024). Risk assessments underestimate threat of pesticides to wild bees. [doi: 10.1101/2023.09.15.557615](https://doi.org/10.1101/2023.09.15.557615)
 
