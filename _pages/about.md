@@ -23,11 +23,11 @@ _Preprints_
 
 **Shahmohamadloo, R.S.**, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. [doi: 10.1101/2024.04.15.589575](https://doi.org/10.1101/2024.04.15.589575)
 
-**Shahmohamadloo, R.S.**‡, Tissier, M.L.‡, Guzman, L.M.‡ (2024). Risk assessments underestimate threat of pesticides to wild bees. [doi: 10.1101/2023.09.15.557615](https://doi.org/10.1101/2023.09.15.557615)
-
 **Shahmohamadloo, R.S.**‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific genetic variation is critical to toxicological responses and environmental risk assessments. [doi: 10.1101/2023.06.06.543817](https://doi.org/10.1101/2023.06.06.543817)
 
 _Peer-reviewed_
+
+**Shahmohamadloo, R.S.**‡, Tissier, M.L.‡, Guzman, L.M.‡ (2024). Risk assessments underestimate threat of pesticides to wild bees. [doi: 10.1111/conl.13022](https://doi.org/10.1111/conl.13022) [(PDF)](/files/2024_CONSERVLETTERS_Shahmohamadloo et al.pdf)
 
 **Shahmohamadloo, R.S.**, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. _Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)_. CABI, Oxfordshire, UK. [doi: 10.1079/9781800621640.0010](http://www.doi.org/10.1079/9781800621640.0010) [(PDF)](/files/2023_CABI_CCDDFCC_Shahmohamadloo et al.pdf)
 
