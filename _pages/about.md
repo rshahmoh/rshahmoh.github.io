@@ -27,7 +27,7 @@ _Preprints_
 
 _Peer-reviewed_
 
-**Shahmohamadloo, R.S.**‡, Tissier, M.L.‡, Guzman, L.M.‡ (2024). Risk assessments underestimate threat of pesticides to wild bees. [doi: 10.1111/conl.13022](https://doi.org/10.1111/conl.13022) [(PDF)](/files/2024_CONSERVLETTERS_Shahmohamadloo et al.pdf)
+**Shahmohamadloo, R.S.**‡, Tissier, M.L.‡, Guzman, L.M.‡ (2024). Risk assessments underestimate threat of pesticides to wild bees. _Conserv. Letters_, e13022.__ [doi: 10.1111/conl.13022](https://doi.org/10.1111/conl.13022) [(PDF)](/files/2024_CONSERVLETTERS_Shahmohamadloo et al.pdf)
 
 **Shahmohamadloo, R.S.**, Frenken, T., Rudman, S.M., Van West, P., Ibelings, B.W., Trainer, V.L. (2023). Diseases and Disorders in Fish due to Harmful Algal Blooms. _Climate Change on Diseases and Disorders of Finfish in Cage Culture (3rd Ed)_. CABI, Oxfordshire, UK. [doi: 10.1079/9781800621640.0010](http://www.doi.org/10.1079/9781800621640.0010) [(PDF)](/files/2023_CABI_CCDDFCC_Shahmohamadloo et al.pdf)
 
