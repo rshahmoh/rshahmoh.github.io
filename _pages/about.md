@@ -21,6 +21,8 @@ Publications
 
 _Preprints_
 
+**Shahmohamadloo, R.S.**, Gabidulin, A.R., Andrews, E.A., Fryxell, J.M., Rudman, S.M. (2024). A test for microbiome-mediated rescue via host phenotypic plasticity in Daphnia. [doi: 10.1101/2024.08.14.607994](https://doi.org/10.1101/2024.08.14.607994)
+
 **Shahmohamadloo, R.S.**, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. [doi: 10.1101/2024.04.15.589575](https://doi.org/10.1101/2024.04.15.589575)
 
 **Shahmohamadloo, R.S.**‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific genetic variation is critical to toxicological responses and environmental risk assessments. [doi: 10.1101/2023.06.06.543817](https://doi.org/10.1101/2023.06.06.543817)
