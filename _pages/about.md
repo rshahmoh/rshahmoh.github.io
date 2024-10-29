@@ -25,11 +25,9 @@ _Preprints_
 
 **Shahmohamadloo, R.S.**, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. [doi: 10.1101/2024.04.15.589575](https://doi.org/10.1101/2024.04.15.589575)
 
-**Shahmohamadloo, R.S.**‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific genetic variation is critical to toxicological responses and environmental risk assessments. [doi: 10.1101/2023.06.06.543817](https://doi.org/10.1101/2023.06.06.543817)
-
 _Peer-reviewed_
 
-**Shahmohamadloo, R.S.**‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific diversity is critical to population-level risk assessments. _Sci. Rep._, e13022. [doi: 10.1038/s41598-024-76734-x](https://doi.org/10.1038/s41598-024-76734-x) [(PDF)](/files/2024_CONSERVLETTERS_Shahmohamadloo et al.pdf)
+**Shahmohamadloo, R.S.**‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific diversity is critical to population-level risk assessments. _Sci. Rep._, e13022. [doi: 10.1038/s41598-024-76734-x](https://doi.org/10.1038/s41598-024-76734-x) [(PDF)](/files/2024_SCIREP_Shahmohamadloo et al.pdf)
 
 **Shahmohamadloo, R.S.**‡, Tissier, M.L.‡, Guzman, L.M.‡ (2024). Risk assessments underestimate threat of pesticides to wild bees. _Conserv. Letters_, e13022. [doi: 10.1111/conl.13022](https://doi.org/10.1111/conl.13022) [(PDF)](/files/2024_CONSERVLETTERS_Shahmohamadloo et al.pdf)
 <br>**Media coverage:** [The CNRS](https://www.inee.cnrs.fr/fr/cnrsinfo/nouvelles-connaissances-sur-les-risques-des-pesticides-pour-les-abeilles-sauvages), [USC Dornsife](https://dornsife.usc.edu/news/stories/wild-native-bees-see-lower-counts-where-pesticides-are-used/)
