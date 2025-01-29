@@ -27,6 +27,8 @@ _Preprints_
 
 _Peer-reviewed_
 
+Schiller, L., Davis, A., Lamb, C., Menzies, A., **Shahmohamadloo, R.**, Tissier, M., Vanderwolf, K. (2025) Hopeful insights from wildlife recoveries in Canada, _FACETS_, 10: 1-17. [doi: 10.1139/facets-2024-0084](https://doi.org/10.1139/facets-2024-0084) [(PDF)](/files/2025_FACETS_Schiller et al.pdf)
+
 **Shahmohamadloo, R.S.**‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific diversity is critical to population-level risk assessments. _Sci. Rep._, e13022. [doi: 10.1038/s41598-024-76734-x](https://doi.org/10.1038/s41598-024-76734-x) [(PDF)](/files/2024_SCIREP_Shahmohamadloo et al.pdf)
 
 **Shahmohamadloo, R.S.**‡, Tissier, M.L.‡, Guzman, L.M.‡ (2024). Risk assessments underestimate threat of pesticides to wild bees. _Conserv. Letters_, e13022. [doi: 10.1111/conl.13022](https://doi.org/10.1111/conl.13022) [(PDF)](/files/2024_CONSERVLETTERS_Shahmohamadloo et al.pdf)
