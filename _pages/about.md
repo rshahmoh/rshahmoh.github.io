@@ -28,7 +28,7 @@ _Preprints_
 _Peer-reviewed_
 
 Schiller, L., Davis, A., Lamb, C., Menzies, A., **Shahmohamadloo, R.**, Tissier, M., Vanderwolf, K. (2025) Hopeful insights from wildlife recoveries in Canada, _FACETS_, 10: 1-17. [doi: 10.1139/facets-2024-0084](https://doi.org/10.1139/facets-2024-0084) [(PDF)](/files/2025_FACETS_Schiller et al.pdf)
-<br>**Media coverage:** [The Narwhal](https://thenarwhal.ca/endangered-species-recovery-study-2025/)
+<br>**Media coverage:** [The Narwhal](https://thenarwhal.ca/endangered-species-recovery-study-2025/), [The Canadian Press](https://www.thecanadianpressnews.ca/science/saving-species-not-rocket-science-but-few-faring-better-than-long-ago-researcher/article_f999bc26-9b8d-554d-8f0d-cc55ed1bf6d8.html)
 
 **Shahmohamadloo, R.S.**‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific diversity is critical to population-level risk assessments. _Sci. Rep._, e13022. [doi: 10.1038/s41598-024-76734-x](https://doi.org/10.1038/s41598-024-76734-x) [(PDF)](/files/2024_SCIREP_Shahmohamadloo et al.pdf)
 
