@@ -23,9 +23,9 @@ _Preprints_
 
 **Shahmohamadloo, R.S.**, Gabidulin, A.R., Andrews, E.A., Fryxell, J.M., Rudman, S.M. (2024). A test for microbiome-mediated rescue via host phenotypic plasticity in Daphnia. [doi: 10.1101/2024.08.14.607994](https://doi.org/10.1101/2024.08.14.607994)
 
-**Shahmohamadloo, R.S.**, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. [doi: 10.1101/2024.04.15.589575](https://doi.org/10.1101/2024.04.15.589575)
-
 _Peer-reviewed_
+
+**Shahmohamadloo, R.S.**, Fryxell, J.M., Rudman, S.M. (2024). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. _Evolution_, qpaf050 [doi: 10.1093/evolut/qpaf050](https://doi.org/10.1093/evolut/qpaf050)
 
 Schiller, L., Davis, A., Lamb, C., Menzies, A., **Shahmohamadloo, R.**, Tissier, M., Vanderwolf, K. (2025) Hopeful insights from wildlife recoveries in Canada, _FACETS_, 10: 1-17. [doi: 10.1139/facets-2024-0084](https://doi.org/10.1139/facets-2024-0084) [(PDF)](/files/2025_FACETS_Schiller et al.pdf)
 <br>**Media coverage:** [The Narwhal](https://thenarwhal.ca/endangered-species-recovery-study-2025/), [The Canadian Press](https://www.thecanadianpressnews.ca/science/saving-species-not-rocket-science-but-few-faring-better-than-long-ago-researcher/article_f999bc26-9b8d-554d-8f0d-cc55ed1bf6d8.html)
