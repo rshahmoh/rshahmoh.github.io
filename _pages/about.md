@@ -21,9 +21,13 @@ Publications
 
 _Preprints_
 
-**Shahmohamadloo, R.S.**, Gabidulin, A.R., Andrews, E.A., Fryxell, J.M., Rudman, S.M. (2024). A test for microbiome-mediated rescue via host phenotypic plasticity in Daphnia. [doi: 10.1101/2024.08.14.607994](https://doi.org/10.1101/2024.08.14.607994)
+**Shahmohamadloo, R.S.**, Gabidulin, A.R.†, Andrews, E.R.†,  Rudman, S.M. (2025). Standing genetic variation, not microbiomes underlie rapid adaptation.
 
 _Peer-reviewed_
+
+Tissier, M.L.‡, **Shahmohamadloo, R.S.**‡, Guzman, L.M.‡ (2025). Pesticide risk assessment in a changing world. (Accepted in _Global Change Biology_)
+
+**Shahmohamadloo, R.S.**, Gabidulin, A.R., Andrews, E.R., Fryxell, J.M., Rudman, S.M. (2025). A test for microbiome-mediated rescue via host phenotypic plasticity in Daphnia. [doi: 10.1098/rspb.2025.0365](https://doi.org/10.1098/rspb.2025.0365)
 
 **Shahmohamadloo, R.S.**, Fryxell, J.M., Rudman, S.M. (2025). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. _Evolution_, qpaf050 [doi: 10.1093/evolut/qpaf050](https://doi.org/10.1093/evolut/qpaf050)
 
