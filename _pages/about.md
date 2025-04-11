@@ -27,11 +27,11 @@ _Peer-reviewed_
 
 Tissier, M.L.‡, **Shahmohamadloo, R.S.**‡, Guzman, L.M.‡ (2025). Pesticide risk assessment in a changing world. (Accepted in _Global Change Biology_)
 
-**Shahmohamadloo, R.S.**, Gabidulin, A.R., Andrews, E.R., Fryxell, J.M., Rudman, S.M. (2025). A test for microbiome-mediated rescue via host phenotypic plasticity in Daphnia. [doi: 10.1098/rspb.2025.0365](https://doi.org/10.1098/rspb.2025.0365) [(PDF)](/files/2025_PROCRSOCB_Shahmohamadloo et al.pdf)
+**Shahmohamadloo, R.S.**, Gabidulin, A.R., Andrews, E.R., Fryxell, J.M., Rudman, S.M. (2025). A test for microbiome-mediated rescue via host phenotypic plasticity in Daphnia, _Proc. R. Soc. B._, 292: 20250365. [doi: 10.1098/rspb.2025.0365](https://doi.org/10.1098/rspb.2025.0365) [(PDF)](/files/2025_PROCRSOCB_Shahmohamadloo et al.pdf)
 
 **Shahmohamadloo, R.S.**, Fryxell, J.M., Rudman, S.M. (2025). Transgenerational epigenetic inheritance increases trait variation but is not adaptive. _Evolution_, qpaf050 [doi: 10.1093/evolut/qpaf050](https://doi.org/10.1093/evolut/qpaf050)
 
-Schiller, L., Davis, A., Lamb, C., Menzies, A., **Shahmohamadloo, R.**, Tissier, M., Vanderwolf, K. (2025) Hopeful insights from wildlife recoveries in Canada, _FACETS_, 10: 1-17. [doi: 10.1139/facets-2024-0084](https://doi.org/10.1139/facets-2024-0084) [(PDF)](/files/2025_FACETS_Schiller et al.pdf)
+Schiller, L., Tissier, M.L., Davis, A.C.D., Lamb, C.T., Mayer, S.O., Menzies, A.K., **Shahmohamadloo, R.S.**, Vanderwolf, K.J. (2025) Hopeful insights from wildlife recoveries in Canada, _FACETS_, 10: 1-17. [doi: 10.1139/facets-2024-0084](https://doi.org/10.1139/facets-2024-0084) [(PDF)](/files/2025_FACETS_Schiller et al.pdf)
 <br>**Media coverage:** [The Narwhal](https://thenarwhal.ca/endangered-species-recovery-study-2025/), [The Canadian Press](https://www.thecanadianpressnews.ca/science/saving-species-not-rocket-science-but-few-faring-better-than-long-ago-researcher/article_f999bc26-9b8d-554d-8f0d-cc55ed1bf6d8.html)
 
 **Shahmohamadloo, R.S.**‡, Rudman, S.M.‡, Clare, C.I., Westrick, J.A., De Meester, L., Fryxell, J.M. (2024). Intraspecific diversity is critical to population-level risk assessments. _Sci. Rep._, e13022. [doi: 10.1038/s41598-024-76734-x](https://doi.org/10.1038/s41598-024-76734-x) [(PDF)](/files/2024_SCIREP_Shahmohamadloo et al.pdf)
