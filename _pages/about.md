@@ -25,7 +25,7 @@ _Preprints_
 
 _Peer-reviewed_
 
-Tissier, M.L.‡, **Shahmohamadloo, R.S.**‡, Guzman, L.M.‡ (2025). Pesticide risk assessment in a changing world. (Accepted in _Global Change Biology_)
+Tissier, M.L.‡, **Shahmohamadloo, R.S.**‡, Guzman, L.M.‡ (2025). Pesticide risk assessment in a changing world. _Glob. Change Biol._, 31: e70203. [doi: 10.1111/gcb.70203](https://doi.org/10.1111/gcb.70203)
 
 **Shahmohamadloo, R.S.**, Gabidulin, A.R., Andrews, E.R., Fryxell, J.M., Rudman, S.M. (2025). A test for microbiome-mediated rescue via host phenotypic plasticity in Daphnia, _Proc. R. Soc. B._, 292: 20250365. [doi: 10.1098/rspb.2025.0365](https://doi.org/10.1098/rspb.2025.0365) [(PDF)](/files/2025_PROCRSOCB_Shahmohamadloo et al.pdf)
 
