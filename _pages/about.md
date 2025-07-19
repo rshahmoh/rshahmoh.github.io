@@ -21,7 +21,9 @@ Publications
 
 _Preprints_
 
-**Shahmohamadloo, R.S.**, Gabidulin, A.R.†, Andrews, E.R.†,  Rudman, S.M. (2025). Standing genetic variation, not microbiomes underlie rapid adaptation.
+**Shahmohamadloo, R.S.**, Gabidulin, A.R.†, Andrews, E.R.†,  Rudman, S.M. (2025). Microbiome evolution plays a secondary role in host rapid adaptation. [doi: 10.1101/2025.06.27.661976](https://doi.org/10.1101/2025.06.27.661976)
+
+Prileson, E.G., Campagnari, B., Clare, C.I., Gabidulin, A.R., **Shahmohamadloo, R.S.**, Rudman, S.M. (2025). Adaptation and trade-offs with insecticide resistance in overwintering Drosophila. [doi: 10.1101/2025.05.27.655643](https://doi.org/10.1101/2025.05.27.655643)
 
 _Peer-reviewed_
 
