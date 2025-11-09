@@ -21,7 +21,7 @@ _Preprints_
 
 _Peer-reviewed_
 
-Prileson, E.G., Campagnari, B., Clare, C.I., Gabidulin, A.R., **Shahmohamadloo, R.S.**, Rudman, S.M. (2025). Overwintering drives rapid adaptation in Drosophila with potential costs to insecticide resistance. _Evolution_. [doi: 10.1093/evolut/qpaf205](https://doi.org/10.1093/evolut/qpaf205)
+Prileson, E.G., Campagnari, B., Clare, C.I., Gabidulin, A.R., **Shahmohamadloo, R.S.**, Rudman, S.M. (2025). Overwintering drives rapid adaptation in Drosophila with potential costs to insecticide resistance. _Evolution_. [doi: 10.1093/evolut/qpaf205](https://doi.org/10.1093/evolut/qpaf205) [(PDF)](/files/2025_EVOLUTION_Prileson et al.pdf)
 
 Tissier, M.L.‡, **Shahmohamadloo, R.S.**‡, Guzman, L.M.‡ (2025). Pesticide risk assessment in a changing world. _Glob. Change Biol._, 31: e70203. [doi: 10.1111/gcb.70203](https://doi.org/10.1111/gcb.70203) [(PDF)](/files/2025_GLOBCHANGEBIOL_Tissier et al.pdf)
 
