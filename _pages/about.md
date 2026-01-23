@@ -19,9 +19,9 @@ Publications
 
 _Preprints_
 
-Rudman, S.M., Faber-Hammond, J.J., Sherman, R.E., **Shahmohamadloo, R.S.**, MacMillan, H.A., Jeyasingh, P.D., Schmidt, P.S. (2025). Ecology stoichiometry and life history theory, not the identity of genomic variants, predict rapid adaptation. [doi: 10.1101/2025.11.11.687836](https://doi.org/10.1101/2025.11.11.687836)
+Rudman, S.M., Faber-Hammond, J.J., Sherman, R.E., **Shahmohamadloo, R.S.**, MacMillan, H.A., Jeyasingh, P.D., Schmidt, P.S. (2026). Ecology stoichiometry and life history theory, not the identity of genomic variants, predict rapid adaptation. [doi: 10.1101/2025.11.11.687836](https://doi.org/10.1101/2025.11.11.687836)
 
-**Shahmohamadloo, R.S.**, Gabidulin, A.R.†, Andrews, E.R.†,  Rudman, S.M. (2025). Microbiome evolution plays a secondary role in host rapid adaptation. [doi: 10.1101/2025.06.27.661976](https://doi.org/10.1101/2025.06.27.661976)
+**Shahmohamadloo, R.S.**, Gabidulin, A.R.†, Andrews, E.R.†,  Rudman, S.M. (2026). Microbiome evolution plays a secondary role in host rapid adaptation. [doi: 10.1101/2025.06.27.661976](https://doi.org/10.1101/2025.06.27.661976)
 
 _Peer-reviewed_
 
