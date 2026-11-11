@@ -19,13 +19,13 @@ Publications
 
 _Preprints_
 
-Prileson, E.G., Campagnari, B., Ruotsalainen, B.†, **Shahmohamadloo, R.S.**, Zetina, C.†, Rudman, S.R. (2026). Insecticide resistance evolution and assisted gene flow interact to shape the evolution of plasticity. [doi: 10.64898/2026.04.26.720922](https://doi.org/10.64898/2026.04.26.720922)
-
 Rudman, S.M., Faber-Hammond, J.J., Sherman, R.E., **Shahmohamadloo, R.S.**, MacMillan, H.A., Jeyasingh, P.D., Schmidt, P.S. (2026). Ecology stoichiometry and life history theory, not the identity of genomic variants, predict rapid adaptation. [doi: 10.1101/2025.11.11.687836](https://doi.org/10.1101/2025.11.11.687836)
 
 **Shahmohamadloo, R.S.**, Gabidulin, A.R.†, Andrews, E.R.†,  Rudman, S.M. (2026). Microbiome evolution plays a secondary role in host rapid adaptation. [doi: 10.1101/2025.06.27.661976](https://doi.org/10.1101/2025.06.27.661976)
 
 _Peer-reviewed_
+
+Prileson, E.G., Campagnari, B., Ruotsalainen, B.†, **Shahmohamadloo, R.S.**, Zetina, C.†, Rudman, S.R. (2026). Insecticide resistance evolution and assisted gene flow interact to shape the evolution of plasticity. _Proc. R. Soc. B._, 293(2082): 20262085. [doi: 10.1098/rspb.2026.2085](https://doi.org/10.1098/rspb.2026.2085) [(PDF)](/files/2026_PROCRSOCB_Prileson et al.pdf)
 
 Prileson, E.G., Campagnari, B., Clare, C.I., Gabidulin, A.R., **Shahmohamadloo, R.S.**, Rudman, S.M. (2026). Overwintering drives rapid adaptation in Drosophila with potential costs to insecticide resistance. _Evolution_, 80(1), 55-66. [doi: 10.1093/evolut/qpaf205](https://doi.org/10.1093/evolut/qpaf205) [(PDF)](/files/2026_EVOLUTION_Prileson et al.pdf)
 <br>**Digest feature:** [Evolution](https://doi.org/10.1093/evolut/qpaf256) [(PDF)](/files/2026_EVOLUTION_Langmuller.pdf)
