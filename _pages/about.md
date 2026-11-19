@@ -19,6 +19,8 @@ Publications
 
 _Preprints_
 
+**Shahmohamadloo, R.S.**, Faber-Hammond, J.J., Gabidulin, A.R.†, Clare, C.I.,  Rudman, S.M. (2026). Contingency and determinism in rapid adaptation shape evolutionary rescue and extinction in _Drosophila_. [doi: 10.64898/2026.11.17.767432](https://doi.org/10.64898/2026.11.17.767432)
+
 Rudman, S.M., Faber-Hammond, J.J., Sherman, R.E., **Shahmohamadloo, R.S.**, MacMillan, H.A., Jeyasingh, P.D., Schmidt, P.S. (2026). Ecology stoichiometry and life history theory, not the identity of genomic variants, predict rapid adaptation. [doi: 10.1101/2025.11.11.687836](https://doi.org/10.1101/2025.11.11.687836)
 
 **Shahmohamadloo, R.S.**, Gabidulin, A.R.†, Andrews, E.R.†,  Rudman, S.M. (2026). Microbiome evolution plays a secondary role in host rapid adaptation. [doi: 10.1101/2025.06.27.661976](https://doi.org/10.1101/2025.06.27.661976)
